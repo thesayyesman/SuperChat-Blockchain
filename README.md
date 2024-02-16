@@ -1,6 +1,6 @@
-# Buy Me a Coffee contract on Ethereum Blockchain
+# Buy Me a Coffee/Chai contract on Ethereum Blockchain
 
-The "Buy Me a Coffee" contract on the Ethereum Blockchain is a smart contract designed to facilitate decentralized crowdfunding for content creators, developers, artists, and other individuals seeking support for their work.
+The "Buy Me a Chai" contract on the Ethereum Blockchain is a smart contract designed to facilitate decentralized crowdfunding for content creators, developers, artists, and other individuals seeking support for their work.
 
 Utilizing Ethereum's smart contract capabilities, the contract enables supporters to send cryptocurrency (such as Ether) directly to the content creator's Ethereum address. This eliminates the need for intermediaries or centralized crowdfunding platforms, providing a transparent and secure way for supporters to contribute funds.
 
