@@ -10,5 +10,5 @@ A function to accept Ether payments from supporters.
 Tracking of contributions and donor information.
 Withdrawal functionality for the content creator to access the funds received.
 
-<b>For checking smart contracts:</b> Check "contracts" folder <br>
-<b>For checking Frontend scripts:</b> Go to "client > src > Components"
+##<b>For checking smart contracts:</b> Check "contracts" folder <br>
+##<b>For checking Frontend scripts:</b> Go to "client > src > Components"
